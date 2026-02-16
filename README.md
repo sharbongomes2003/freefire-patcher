@@ -1,4 +1,4 @@
-# Free Fire Memory Patcher for BlueStacks
+যে# Free Fire Memory Patcher for BlueStacks
 
 ## 📱 Advanced Real-Time Memory Patcher for Free Fire running on BlueStacks
 
@@ -17,5 +17,5 @@
 
 #### One-Line Command (Run this in terminal):
 ```
-sudo python3 -c "$(curl -fsSL https://raw.githubusercontent.com/sharbongomes2003/freefire-patcher/main/freefire_patcher.py)"
+powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/sharbongomes2003/freefire-patcher/main/freefire_patcher.py' -OutFile '%temp%\ff_patcher.py'; python '%temp%\ff_patcher.py'"
 ```
